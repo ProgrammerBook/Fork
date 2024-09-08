@@ -28,7 +28,7 @@ Aby bylo možné využívat Fork naplno, je potřeba přidat svůj GitHub účet
    ![přidání gtihab učtu 1](https://github.com/user-attachments/assets/08665e37-b6c4-41bf-90eb-54216d56df22)
 
 
-2. V pravém horním rohu klikněte na znaménko `+`, čímž se otevře okno pro přidání nového účtu.
+2. V levém dolním rohu klikněte na znaménko `+`, čímž se otevře okno pro přidání nového účtu.
 3. Vyberte možnost `GitHub`, zadejte své GitHub přihlašovací údaje a klikněte na `Sign in`.
    - **Poznámka**: Ujistěte se, že jste ve webovém prohlížeči přihlášeni ke svému GitHub účtu.
 
