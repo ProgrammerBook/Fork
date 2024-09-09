@@ -11,9 +11,9 @@ Fork lze stáhnout z oficiální webové stránky [zde](https://git-fork.com/). 
 ### Po stažení:
 1. Spusťte instalační soubor a postupujte podle pokynů.
 2. Po dokončení instalace spusťte aplikaci a zadejte své přihlašovací údaje z GitHubu:
-   1 **Přezdívku** (Username)
-   2 **E-mailovou adresu**
-   3 **Cestu pro ukládání souborů** (kam chcete ukládat své projekty)
+   - **1. Přezdívku** (Username)
+   - **2. E-mailovou adresu**
+   - **3. Cestu pro ukládání souborů** (kam chcete ukládat své projekty)
 
    ![přihlášení fork](https://github.com/user-attachments/assets/1b7b3fe8-94b4-42ab-bf38-6ccabfbcede8)
 
